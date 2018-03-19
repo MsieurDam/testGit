@@ -7,12 +7,10 @@
 	<link rel="stylesheet" href="">
 </head>
 <body>
-Page d'accueil
+Page de contact
 
-<p>Du texte important BOUDIOU !!</p>
+<p>Du texte</p>
 
-
-MOUAHAHAHAHAAAAA !!
 	
 </body>
 </html>
